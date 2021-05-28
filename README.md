@@ -1,6 +1,6 @@
-<h1>Hola, soy Nicolas. 🤙 </h1>
+<h1>Hola, soy Nicolas.😎 </h1>
 
-<h2> 👨🏻‍💻 Sobre Mí </h2>
+<h2> Acerca de Mi </h2>
 <p> Tengo 15 años y soy de Cordoba, Argentina.
 Soy Desarrollador de software, actualmente trabajando con tecnologías JS, Lua, C# , Php y SQL </p>
 
