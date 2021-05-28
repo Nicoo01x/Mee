@@ -5,8 +5,6 @@
 Soy Desarrollador de software, actualmente trabajando con tecnologías JavaScript, Lua, C# , Php y Sql. </p>
 
 
-<h2> 🛠 Habilidades </h2>
-
 
 <h3> Lenguajes </h3>
 
@@ -15,3 +13,7 @@ Soy Desarrollador de software, actualmente trabajando con tecnologías JavaScrip
 
 
 -  <a href="https://www.lua.org/images/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua" width="40" height="40"/> </a> 
+
+
+
+-  <a target="_blank"> <img src="https://co.pinterest.com/pin/700309810796108334/" alt="Lua" width="40" height="40"/> </a> 
