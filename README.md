@@ -14,4 +14,4 @@ Soy Desarrollador de software, actualmente trabajando con tecnologías JavaScrip
 -  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
 
--  <a href="https://www.lua.org/images/" target="_blank"> <img src="https://www.lua.org/images/" alt="Lua" width="40" height="40"/> </a> 
+-  <a href="https://www.lua.org/images/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua" width="40" height="40"/> </a> 
