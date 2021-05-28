@@ -15,3 +15,4 @@ Soy Desarrollador de software, actualmente trabajando con tecnologías JavaScrip
 
 
   
+https://www.logo.wine/logo/Lua_(programming_language)
