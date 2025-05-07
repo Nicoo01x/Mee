@@ -1,7 +1,7 @@
 <h1>Hola, soy Nicolas.😎 </h1>
 
 <h2> Acerca de Mi </h2>
-<p> Tengo 18 años y soy de Cordoba, Argentina.
+<p> Tengo 17 años y soy de Cordoba, Argentina.
 Soy Desarrollador de software, actualmente trabajando con tecnologías JavaScript, Lua, C# , Php y Sql. </p>
 
 
