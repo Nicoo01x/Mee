@@ -17,7 +17,3 @@ Me especializo en la construcción de aplicaciones web modernas:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="40" height="40"/>
 </div>
 
-## Más sobre mí
-- Apasionado por el trabajo en equipo y la colaboración.
-- Siempre abierto a nuevos proyectos y retos.
-- Dispuesto a compartir conocimientos y contribuir a la comunidad de código abierto.
