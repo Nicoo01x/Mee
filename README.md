@@ -6,7 +6,6 @@ Soy estudiante de Ingeniería en Informática en la Universidad Blas Pascal y De
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Informática (UBP).
-- 🧠 Apasionado por el desarrollo de software, el diseño UX/UI y la innovación tecnológica.
 - 💼 Desarollador de [SoftImpulse](https://softimpulso.ar), donde creamos soluciones 100% personalizadas para cada cliente.
 - 🎯 Me especializo en desarrollo web full-stack, automatización de sistemas y desarrollo de software.
 
