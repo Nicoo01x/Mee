@@ -40,3 +40,5 @@ Soy estudiante de Ingeniería en Informática en la Universidad Blas Pascal y De
 
 - 🌐 Sitio web: [softimpulso.ar](https://softimpulso.ar)
 - 📧 Email: nicocabanillasdev@example.com
+
+- ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?Nicoo01x=TU_USUARIO&show_icons=true&theme=dark)
