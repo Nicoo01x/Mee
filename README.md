@@ -30,7 +30,7 @@ Soy estudiante de Ingeniería en Informática en la Universidad Blas Pascal y De
 
 ## 📂 Proyectos destacados
 
-- 🎾 [Sistema de Torneos de Pádel](https://github.com/tuusuario/proyecto-padel): Registro de parejas, emparejamientos automáticos, carga de resultados y panel de administración.
+- 🎾 Sistema de Torneos de Pádel: Registro de parejas, emparejamientos automáticos, carga de resultados y panel de administración.
 - 🛍️ Tienda Web Personalizada: Backend con panel admin, login seguro, carrito y gestión de productos.
 - 🎓 App de gestión educativa: Control de notas, asistencia, materias y panel para usuarios y administradores.
 
