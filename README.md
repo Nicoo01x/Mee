@@ -1,19 +1,46 @@
-# Hola, soy Nicolás 😎
+# 👋 ¡Hola! Soy Nico
 
-## Acerca de mí
-Soy un desarrollador de software de 17 años, oriundo de Córdoba, Argentina. Trabajo principalmente con tecnologías JavaScript, Lua, C#, PHP y SQL. Me apasiona aprender continuamente y desarrollar soluciones que aporten valor.
+Soy estudiante de Ingeniería en Informática en la Universidad Blas Pascal y fundador de **SoftImpulse**, una empresa dedicada al desarrollo de software y páginas web a medida. Mi misión es transformar ideas en soluciones digitales reales, funcionales y atractivas para todo tipo de clientes.
 
-## Desarrollo web
-Me especializo en la construcción de aplicaciones web modernas:
-- Diseño de interfaces con **HTML5**, **CSS3** y frameworks de JavaScript.
-- Creación de APIs y servicios backend en **PHP** y **Node.js**.
-- Gestión de bases de datos con **MySQL** y **SQLite**.
+---
 
-## Lenguajes y herramientas
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="40" height="40"/>
-</div>
+## 🚀 Sobre mí
 
+- 🎓 Estudiante de Ingeniería en Informática (UBP).
+- 🧠 Apasionado por el desarrollo de software, el diseño UX/UI y la innovación tecnológica.
+- 💼 Fundador de [SoftImpulse](https://softimpulso.ar), donde creamos soluciones 100% personalizadas para cada cliente.
+- 🎯 Me especializo en desarrollo web full-stack y automatización de sistemas.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes de programación:**
+- JavaScript | C++ | C# | Lua
+
+**Frontend:**
+- HTML5 | CSS3 | Tailwind CSS | Bootstrap
+
+**Backend y bases de datos:**
+- Node.js | Express | MySQL | SQLite | PHP
+
+**Otros conocimientos:**
+- JWT | APIs REST | Git & GitHub
+- Visual Studio Code | Figma (diseño UI/UX)
+- PSeInt | VHDL (FPGA)
+
+---
+
+## 📂 Proyectos destacados
+
+- 🎾 [Sistema de Torneos de Pádel](https://github.com/tuusuario/proyecto-padel): Registro de parejas, emparejamientos automáticos, carga de resultados y panel de administración.
+- 🛍️ Tienda Web Personalizada: Backend con panel admin, login seguro, carrito y gestión de productos.
+- 🎓 App de gestión educativa: Control de notas, asistencia, materias y panel para usuarios y administradores.
+
+---
+
+## 📫 Contacto
+
+- 🌐 Sitio web: [softimpulso.ar](https://softimpulso.ar)
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 📧 Email: nicocabanillasdev@example.com
