@@ -39,5 +39,4 @@ Soy estudiante de Ingeniería en Informática en la Universidad Blas Pascal y De
 ## 📫 Contacto
 
 - 🌐 Sitio web: [softimpulso.ar](https://softimpulso.ar)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 - 📧 Email: nicocabanillasdev@example.com
