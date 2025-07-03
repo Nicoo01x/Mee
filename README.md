@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Nico
 
-Soy estudiante de Ingeniería en Informática en la Universidad Blas Pascal y Desarrolador de **SoftImpulse**, una empresa dedicada al desarrollo de software y páginas web a medida.
+Desarrolador de **SoftImpulse**, una empresa dedicada al desarrollo de software y páginas web a medida.
 ---
 
 ## 🚀 Sobre mí
